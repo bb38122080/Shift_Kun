@@ -39,6 +39,7 @@ python main.py
 ![image](https://github.com/user-attachments/assets/710e0a83-fdfc-43f0-82d5-c02d694caafb)  
 
 ### アルバイト先の登録
+最初に、アルバイト先の情報を登録します。  
 ![アルバイト登録 2024-07-26 00-49-19](https://github.com/user-attachments/assets/d4424c41-edb2-4cab-b349-0938de037652)  
 アルバイト先の名称、時給、交通費を入力します。
 時給、交通費は半角で入力します。
