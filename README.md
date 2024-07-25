@@ -38,9 +38,14 @@ python main.py
 
 ![image](https://github.com/user-attachments/assets/710e0a83-fdfc-43f0-82d5-c02d694caafb)  
 
-### アルバイト先の追加
+### アルバイト先の登録
 
+### シフトの追加
 
+### シフトの確認・編集
 
+### 給与確認
+
+### アルバイト先の消去
 
 
